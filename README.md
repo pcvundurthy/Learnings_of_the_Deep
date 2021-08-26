@@ -1,2 +1,2 @@
 # Learnings_of_the_Deep
-My journey through learning Machine, Deep Neural Networks and AI.
+Final version of all programming tasks. Currently, Neural Networks and Big Data Files.
